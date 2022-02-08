@@ -8,4 +8,4 @@ Creating the SMS using the following Technologies:
 
 Architecture of SMS is as follows:
 
-![image-architecture](/springboot-MVC.drawio.png)
+![image-architecture](/springboot-MVC.png)
